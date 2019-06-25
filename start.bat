@@ -1,1 +1,1 @@
-start /high srcds.exe +maxplayers 20 -console +host_workshop_collection 1743261711 +gamemode terrortown +map ttt_csgo_mirage -tickrate 66
+start /abovenormal srcds.exe +maxplayers 20 -console -port 27015 +host_workshop_collection 1743261711 +gamemode terrortown +map ttt_csgo_mirage -tickrate 66
